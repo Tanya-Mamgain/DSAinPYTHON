@@ -1,0 +1,10 @@
+fruits=["apple",'orange','strawberry','kiwi','cranberry']
+print (fruits)
+fruits.insert(1,"banana")   
+print(fruits)
+fruits.remove("banana")
+print(fruits)
+index=fruits.index("apple")
+print(index)
+fruits.reverse()
+print(fruits) 
