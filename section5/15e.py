@@ -2,7 +2,7 @@
 my_set={1,2,3,4,5}
 print('Before popping set is=> ',my_set)
 removed_emelent = my_set.pop()
-print('Item removed is=> ',removed_emelent)
+print('Item removed is=> ',removed_emelent)                                                                                                                                                                          
 print('After popping set now becomes=> ', my_set)
 
 # Key points about set.pop():

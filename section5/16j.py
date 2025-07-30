@@ -6,4 +6,4 @@ student ={
 }
 #suppose we wanna access roll of gulshan ?
 print(student['student 2:'] ['name'])  # KEY NAME = "student 2:" 
-print(student['student 2:'] ['roll'])
+print(student['student 2:'] ['roll'])  #access roll 
